@@ -2,4 +2,4 @@
 
 My first repository on github
 
-i love coding.
+i love coding and i will get better daily
